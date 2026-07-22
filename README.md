@@ -1,14 +1,18 @@
-# 👋 Hi there, I'm Luigi Battistini!
+<h1 align="center">
+Hi 👋, I'm Luigi Battistini
+</h1>
 
-**`AI & Analytics Intern @ SAS | Computer Science Student | Data Science & AI Enthusiast`**
+<h3 align="center">
+AI & Analytics Intern @ SAS • Computer Science Student • Data & AI Enthusiast
+</h3>
 
 I'm a Computer Science student at **Instituto Mauá de Tecnologia** and currently an **AI & Analytics Intern at SAS**.
 
-I'm passionate about transforming data into strategic insights and using Artificial Intelligence to solve real-world business problems. My main interests are **Data Science, Machine Learning, Analytics, and Cloud Technologies**.
+I enjoy turning complex datasets into meaningful insights and exploring how Artificial Intelligence can solve real business challenges. I'm constantly learning new technologies and building projects that strengthen my analytical and problem-solving skills.
 
 Currently, I'm expanding my knowledge through academic projects, hands-on machine learning applications, and continuous learning in analytics and data engineering.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=2"/>
 
 ## 🌎 Connect with me
 
@@ -23,7 +27,7 @@ Currently, I'm expanding my knowledge through academic projects, hands-on machin
 
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=2"/>
 
 # 🚀 Tech Stack
 
@@ -63,7 +67,7 @@ Currently, I'm expanding my knowledge through academic projects, hands-on machin
 
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=2"/>
 
 # 📚 Currently Learning
 
@@ -74,7 +78,7 @@ Currently, I'm expanding my knowledge through academic projects, hands-on machin
 - 🧠 SAS Viya
 - 📈 Artificial Intelligence
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=2"/>
 
 # ⭐ Featured Projects
 
@@ -85,19 +89,19 @@ Currently, I'm expanding my knowledge through academic projects, hands-on machin
 | 💳 Credit Score Prediction | Random Forest model for credit score classification. |
 | 🌐 Rokuzen Website | Responsive institutional website developed with HTML, CSS and JavaScript. |
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=2"/>
 
 # 📈 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Battistinii&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Battistinii&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=2"/>
 
 # 🎯 Career Goals
 
@@ -113,6 +117,6 @@ Currently, I'm expanding my knowledge through academic projects, hands-on machin
 
 ✔ Data Engineering
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=2"/>
 
 > *"Turning data into insights and ideas into intelligent solutions."*
