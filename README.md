@@ -94,8 +94,8 @@ Currently, I'm expanding my knowledge through academic projects, hands-on machin
 | 💳 [Credit Score Prediction](https://github.com/Battistinii/Jornada_Python) | AI model to predict clients' credit score, reaching **86% accuracy** based on customer characteristics. |
 | 📉 [Customer Churn Analysis](https://github.com/Battistinii/Jornada_Python) | Data analysis with charts and dashboards in Python to identify the main causes of customer churn, reducing the cancellation rate from **56% to 18%**. |
 | ⚙️ [Product Registration Automation](https://github.com/Battistinii/Jornada_Python) | Python automation for daily and on-demand registration of thousands of products in an internal system. |
-| 🏃 Sweat Rate App *(team project)* | Cross-platform app to calculate sweat rate during sports activities, built for a real client using React, JavaScript, Tailwind CSS and SQL. |
-| 🌐 Rokuzen Website *(team project)* | Responsive institutional website developed with HTML, CSS and JavaScript, from requirements gathering to front-end implementation. |
+| 🏃 [Sweat Rate App *(team project)*](https://github.com/enzoribela/PI_Rokuzen) | Cross-platform app to calculate sweat rate during sports activities, built for a real client using React, JavaScript, Tailwind CSS and SQL. |
+| 🌐 [Rokuzen Website *(team project)*](https://github.com/nikolasfunke/SweatTrack) | Responsive institutional website developed with HTML, CSS and JavaScript, from requirements gathering to front-end implementation. |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=2"/>
 
