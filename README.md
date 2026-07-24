@@ -99,17 +99,13 @@ Currently, I'm expanding my knowledge through academic projects, hands-on machin
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=2"/>
 
-# 📈 GitHub Stats
+### 🐍 Contribution Activity
 
-<p align="center">
-
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Battistinii&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Battistinii&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=2"/>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/battistinii/battistinii/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/battistinii/battistinii/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/battistinii/battistinii/output/github-contribution-grid-snake.svg">
+</picture>
 
 # 🏆 Certifications
 
